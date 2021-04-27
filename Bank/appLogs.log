@@ -3,3 +3,62 @@
  2. Employee Login 
  3. Create a new account 
  4. Exit           Apr-26-21 Monday CDT 20:23;17    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 14:32;38    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 14:32;38    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your user name.           Apr-27-21 Tuesday CDT 14:32;43    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your password.           Apr-27-21 Tuesday CDT 14:32;51    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 14:40;08    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 14:40;08    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your user name.           Apr-27-21 Tuesday CDT 14:40;13    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your password.           Apr-27-21 Tuesday CDT 14:40;18    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 14:41;18    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 14:41;18    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your user name.           Apr-27-21 Tuesday CDT 14:41;22    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your password.           Apr-27-21 Tuesday CDT 14:41;29    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 14:41;54    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 14:41;54    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your user name.           Apr-27-21 Tuesday CDT 14:41;57    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your password.           Apr-27-21 Tuesday CDT 14:42;01    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 14:42;41    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 14:42;41    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your user name.           Apr-27-21 Tuesday CDT 14:42;46    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your password.           Apr-27-21 Tuesday CDT 14:42;50    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 17:36;41    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 17:36;41    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your user name.           Apr-27-21 Tuesday CDT 17:36;50    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your password.           Apr-27-21 Tuesday CDT 17:36;54    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome Sharon           Apr-27-21 Tuesday CDT 17:36;59    
+[INFO]      - {org.bank.presentation.CustomerMenu}   What services would you like to use today?           Apr-27-21 Tuesday CDT 17:36;59    
+[INFO]      - {org.bank.presentation.CustomerMenu}    1. savings account balance 
+ 2. checking account balance 
+ 3. check total amount in checking and saving account 
+ 4. Withdraw from savings account 
+ 5. Deposit to savings acount
+ 6. Withdraw from checking account 
+ 7. Deposit to checking acount 
+ 8. Transfer money to another account 
+ 9. Exit           Apr-27-21 Tuesday CDT 17:36;59    
+[INFO]      - {org.bank.presentation.CustomerMenu}   Thank You           Apr-27-21 Tuesday CDT 17:37;04    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 17:37;04    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 17:37;04    
