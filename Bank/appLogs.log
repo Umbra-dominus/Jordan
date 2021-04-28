@@ -62,3 +62,103 @@
  2. Employee Login 
  3. Create a new account 
  4. Exit           Apr-27-21 Tuesday CDT 17:37;04    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 18:24;45    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 18:24;45    
+[INFO]      - {org.bank.presentation.StartMenu}   Thank You           Apr-27-21 Tuesday CDT 18:24;53    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 18:36;35    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 18:36;35    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your user name.           Apr-27-21 Tuesday CDT 18:36;42    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   Please enter your password.           Apr-27-21 Tuesday CDT 18:36;46    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome Sharon           Apr-27-21 Tuesday CDT 18:36;52    
+[INFO]      - {org.bank.presentation.CustomerMenu}   What services would you like to use today?           Apr-27-21 Tuesday CDT 18:36;52    
+[INFO]      - {org.bank.presentation.CustomerMenu}    1. savings account balance 
+ 2. checking account balance 
+ 3. check total amount in checking and saving account 
+ 4. Withdraw from savings account 
+ 5. Deposit to savings acount
+ 6. Withdraw from checking account 
+ 7. Deposit to checking acount 
+ 8. Transfer money to another account 
+ 9. Exit           Apr-27-21 Tuesday CDT 18:36;52    
+[INFO]      - {org.bank.presentation.CustomerMenu}   Your current savings account balance is $987.00           Apr-27-21 Tuesday CDT 18:36;54    
+[INFO]      - {org.bank.presentation.CustomerMenu}   What services would you like to use today?           Apr-27-21 Tuesday CDT 18:36;54    
+[INFO]      - {org.bank.presentation.CustomerMenu}    1. savings account balance 
+ 2. checking account balance 
+ 3. check total amount in checking and saving account 
+ 4. Withdraw from savings account 
+ 5. Deposit to savings acount
+ 6. Withdraw from checking account 
+ 7. Deposit to checking acount 
+ 8. Transfer money to another account 
+ 9. Exit           Apr-27-21 Tuesday CDT 18:36;54    
+[INFO]      - {org.bank.presentation.CustomerMenu}   Your current Checking account balance is $86.54           Apr-27-21 Tuesday CDT 18:37;00    
+[INFO]      - {org.bank.presentation.CustomerMenu}   What services would you like to use today?           Apr-27-21 Tuesday CDT 18:37;00    
+[INFO]      - {org.bank.presentation.CustomerMenu}    1. savings account balance 
+ 2. checking account balance 
+ 3. check total amount in checking and saving account 
+ 4. Withdraw from savings account 
+ 5. Deposit to savings acount
+ 6. Withdraw from checking account 
+ 7. Deposit to checking acount 
+ 8. Transfer money to another account 
+ 9. Exit           Apr-27-21 Tuesday CDT 18:37;00    
+[INFO]      - {org.bank.presentation.CustomerMenu}   Your current total accounts balance is $1073.54           Apr-27-21 Tuesday CDT 18:37;06    
+[INFO]      - {org.bank.presentation.CustomerMenu}   What services would you like to use today?           Apr-27-21 Tuesday CDT 18:37;06    
+[INFO]      - {org.bank.presentation.CustomerMenu}    1. savings account balance 
+ 2. checking account balance 
+ 3. check total amount in checking and saving account 
+ 4. Withdraw from savings account 
+ 5. Deposit to savings acount
+ 6. Withdraw from checking account 
+ 7. Deposit to checking acount 
+ 8. Transfer money to another account 
+ 9. Exit           Apr-27-21 Tuesday CDT 18:37;06    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   How much would you like to deposit?           Apr-27-21 Tuesday CDT 18:37;11    
+[INFO]      - {org.bank.presentation.CustomerMenu}   your savings account balance is $1087.00           Apr-27-21 Tuesday CDT 18:37;13    
+[INFO]      - {org.bank.presentation.CustomerMenu}   What services would you like to use today?           Apr-27-21 Tuesday CDT 18:37;13    
+[INFO]      - {org.bank.presentation.CustomerMenu}    1. savings account balance 
+ 2. checking account balance 
+ 3. check total amount in checking and saving account 
+ 4. Withdraw from savings account 
+ 5. Deposit to savings acount
+ 6. Withdraw from checking account 
+ 7. Deposit to checking acount 
+ 8. Transfer money to another account 
+ 9. Exit           Apr-27-21 Tuesday CDT 18:37;13    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   How much would you like to withdraw?           Apr-27-21 Tuesday CDT 18:37;24    
+[WARN]      - {org.bank.services.impl.CustomerServicesImpl}   Invalid withdraw, insufficient funds           Apr-27-21 Tuesday CDT 18:37;26    
+[INFO]      - {org.bank.presentation.CustomerMenu}   What services would you like to use today?           Apr-27-21 Tuesday CDT 18:37;26    
+[INFO]      - {org.bank.presentation.CustomerMenu}    1. savings account balance 
+ 2. checking account balance 
+ 3. check total amount in checking and saving account 
+ 4. Withdraw from savings account 
+ 5. Deposit to savings acount
+ 6. Withdraw from checking account 
+ 7. Deposit to checking acount 
+ 8. Transfer money to another account 
+ 9. Exit           Apr-27-21 Tuesday CDT 18:37;26    
+[INFO]      - {org.bank.services.impl.CustomerServicesImpl}   How much would you like to deposit?           Apr-27-21 Tuesday CDT 18:37;31    
+[INFO]      - {org.bank.presentation.CustomerMenu}   your checking account balance is $286.54           Apr-27-21 Tuesday CDT 18:37;33    
+[INFO]      - {org.bank.presentation.CustomerMenu}   What services would you like to use today?           Apr-27-21 Tuesday CDT 18:37;33    
+[INFO]      - {org.bank.presentation.CustomerMenu}    1. savings account balance 
+ 2. checking account balance 
+ 3. check total amount in checking and saving account 
+ 4. Withdraw from savings account 
+ 5. Deposit to savings acount
+ 6. Withdraw from checking account 
+ 7. Deposit to checking acount 
+ 8. Transfer money to another account 
+ 9. Exit           Apr-27-21 Tuesday CDT 18:37;33    
+[INFO]      - {org.bank.presentation.CustomerMenu}   Thank You           Apr-27-21 Tuesday CDT 18:37;37    
+[INFO]      - {org.bank.presentation.StartMenu}   Welcome, What would you like to do?           Apr-27-21 Tuesday CDT 18:37;37    
+[INFO]      - {org.bank.presentation.StartMenu}    1. Customer Login 
+ 2. Employee Login 
+ 3. Create a new account 
+ 4. Exit           Apr-27-21 Tuesday CDT 18:37;37    
+[INFO]      - {org.bank.presentation.StartMenu}   Thank You           Apr-27-21 Tuesday CDT 18:37;40    
